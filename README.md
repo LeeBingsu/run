@@ -1,1 +1,1 @@
-[Play](http://run.bingsuk.kro.kr/run3)
+[Play](http://runex.kro.kr/run3)
